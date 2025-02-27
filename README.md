@@ -1,4 +1,7 @@
 # Sportify-clone
+
+Hii..! I'm 𓂀 𝕊𝕦𝕟𝕚𝕝 𝕊𝕙𝕒𝕣𝕞𝕒 𓂀
+
 Sportify Clone
 Sportify Clone
 Project Overview
@@ -27,7 +30,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/Sharma251-ss/sportify-clone.git
+git clone https://github.com/SunilSharma03/sportify-clone.git
 cd sportify-clone
 Install dependencies:
 
