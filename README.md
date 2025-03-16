@@ -25,6 +25,8 @@ Deployment: Heroku, Vercel, or any preferred cloud service
 Installation
 To set up the Sportify Clone locally, follow these steps:
 
+🌟✨ 𝕿𝖍𝖎𝖘 𝖎𝖘 𝖈𝖗𝖊𝖆𝖙𝖊𝖉 𝖇𝖞 🅂🅄🄽🄸🄻 🅂🄷🄰🅁🄼🄰 ✨🌟
+
 Clone the repository:
 
 bash
